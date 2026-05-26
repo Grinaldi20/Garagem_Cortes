@@ -44,7 +44,7 @@ const CUTS = [
     id: 6,
     name: "Barba Desenhada",
     desc: "Linhas impecáveis, personalidade real",
-    img: "https://images.unsplash.com/photo-1570515993702-c01382063c59?w=600&q=80",
+    img: "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=600&q=80",
   },
 ];
 
